@@ -9,24 +9,37 @@
     background: #FBF9FF;
     padding: 12px 32px;
     margin-bottom: 131px;
+    
 
+}
+.navisdiv{
+    max-width: 1080px;
+    width: 100%;
+    display: inline-block;
+    vertical-align: middle;
 }
 
 .link-style {
+    vertical-align: middle;
     
     
     
 }
 .displey-style{
     display: inline-block;
-    vertical-align: middle;
+   
+
     margin-left: 32px;
     margin-top: 32px;
     
 
 }
+.fotomargin{
+    margin-right: 200px;
+
+}
 .buttonstyle{
-    margin-left: auto;
+
     border-radius: 8px;
     border: 1px solid #6941C6;
     background: #6941C6;
@@ -41,12 +54,22 @@
     color: #323232;
     
 }
+.buttonsize{
+    max-width: 50px;
+    width: 100%;
+    padding: 8px 16px;
+    text-align: right;
+    display: inline-block;
+    vertical-align: middle;
+
+}
 /*main*/
 .divsazetwo{
     max-width: 1248px;
     width: 100%;
     padding: 96px;
     background: #F1E8FF;
+    padding-bottom: 64px;
 }
 .divpadding{
     max-width: 1248px;
@@ -54,6 +77,9 @@
     padding: opx 32px 0px 32px;
     
 
+}
+.marginbottom{
+    margin-bottom: 64px;
 }
 .divh{
     max-width: 259px;
@@ -166,9 +192,6 @@ background: #FFF;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
-    
-    
-
 
 }
 .imgstyle{
@@ -188,4 +211,66 @@ background: #FFF;
     border: 1px solid #E9EAEB;
     background: #FFF;
     
+
+}
+.stylelistp{
+    margin-left: 16px 12px;
+    display: inline-block;
+    vertical-align: middle;
+
+}
+/*queshen title*/
+.maindiv2{
+    max-width: 1248px;
+    width: 100%;
+    padding: 32px 0px;
+    border-radius: 24px;
+    background: #FFF;
+
+}
+.divsazemain{
+    max-width: 768px;
+    width: 100%;
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+.paddingqueshen{
+    max-width: 704px;
+    width: 100%;
+    padding: 32px;
+}
+h2{
+    color: #181D27;
+    text-align: center;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    margin: 0 auto;
+}
+.queshentitle{
+    color: #535862;
+    text-align: center;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    margin-top: 20px;
+}
+.fotostyle{
+    vertical-align: middle;
+    display: inline-block;
+    margin-right: 24px;
+}
+.pstyle{
+    vertical-align: middle;
+    display: inline-block;
+
+}
+.pdiv{
+    max-width: 656px;
+    width: 100%;
+    margin-left: ;
+
+}
+.p2style{
+
 }
